@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.reloj_interface.reloj_codigoidloaddvcombo,reloj_interface.reloj_codigoidloaddvcombo" %>

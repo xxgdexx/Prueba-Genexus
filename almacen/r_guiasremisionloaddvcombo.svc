@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.almacen.r_guiasremisionloaddvcombo,almacen.r_guiasremisionloaddvcombo" %>

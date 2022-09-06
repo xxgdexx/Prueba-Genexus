@@ -1,0 +1,1 @@
+<endpoint  name="GeneXus.Programs.SdtwsConsultaSunatClient" address="http://sigerp.com/CONSULTARUC/WSCONSULTASUNAT.ASMX" binding="basicHttpBinding" bindingConfiguration="CustomBinding" behaviorConfiguration="gxCustomBehaviorConfig" contract="GeneXus.Programs.ISdtwsConsultaSunat"/>

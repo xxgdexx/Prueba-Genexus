@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.ventas.r_antiguedadsaldosloaddvcombo,ventas.r_antiguedadsaldosloaddvcombo" %>

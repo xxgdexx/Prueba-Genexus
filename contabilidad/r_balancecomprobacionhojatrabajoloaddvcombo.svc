@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.contabilidad.r_balancecomprobacionhojatrabajoloaddvcombo,contabilidad.r_balancecomprobacionhojatrabajoloaddvcombo" %>

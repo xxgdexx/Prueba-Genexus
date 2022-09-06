@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.produccion.conceptosordenesproduccionloaddvcombo,produccion.conceptosordenesproduccionloaddvcombo" %>

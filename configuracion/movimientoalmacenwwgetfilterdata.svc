@@ -1,0 +1,1 @@
+<%@ServiceHost Service= "GeneXus.Programs.configuracion.movimientoalmacenwwgetfilterdata,configuracion.movimientoalmacenwwgetfilterdata" %>
